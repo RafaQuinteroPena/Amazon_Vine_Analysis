@@ -1,5 +1,5 @@
 # Amazon_Vine_Analysis
-We wanted to obtain the number of reviews submitted of Amazon products by vine and non vine users to determine the review quantity difference between theese two groups. 
+We wanted to obtain the number of reviews submitted of Amazon products by vine and non vine users to determine the review quantity difference between these two groups. 
 
 ## Results
 There were only 49 posted reviews of vine users and 151400 reviews of non vine users. Also the percentage of 5 star reviews by vine users was only 18%, that's roughly one third of the group that "really loved" the product. For the non vine users, the 5 star reviews were 52%, that is more than half of the users who "loved" the product.
